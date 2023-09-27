@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AkuSehat</string>
+    <string name="titleLogin">Login</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="btnLogin">Sign Up</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLogout">btnLogout</string>
+    <string name="hallo">Hallo</string>
+    <string name="salam_sehat">Salam Sehat!</string>
+    <string name="kalkulator_imt">**Kalkulator IMT**</string>
+
+</resources>

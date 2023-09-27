@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titleLogin">Login</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLogout">btnLogout</string>
+    <string name="hallo">Hallo</string>
+    <string name="salam_sehat">Salam Sehat!</string>
+    <string name="kalkulator_imt">**Kalkulator IMT**</string>
+</resources>
